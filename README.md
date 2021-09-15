@@ -2,7 +2,7 @@
 
 <h3> About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Unity to pursue an Indie Game Development Journey.
+- 🔭 &nbsp; I’m currently learning Unreal Engine to pursue an Indie Game Development Journey.
 - 🤔 &nbsp; Bullying myself to learn Blender.
 - 📽 &nbsp; I am a **Huge** movie/show fan, Which ends up taking up most of my time.
 
