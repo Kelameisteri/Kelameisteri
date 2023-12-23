@@ -11,12 +11,6 @@ Welcome to my code playground! I'm a curious developer who loves diving into var
 
 - 🤓 **C++ Exploration:** Occasionally trying my hand at C++. It's a journey, and I'm embracing the learning curve.
 
-## Current Projects:
-
-- 🕹️ [Javascript - RageMP Roleplay Server](link-to-your-repo): A roleplay server created to be as realistic as possible.
-
-- 🌟 [Vue - Company Simulator](link-to-your-repo): Creating a website where you create and manage different business's
-
 ## Fun Fact:
 
 I believe in the power of exploration, so you'll find a variety of projects here. From gaming realms to coding puzzles, it's all part of the adventure!
