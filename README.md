@@ -1,3 +1,3 @@
 ## :wave: Hi! I'm polsox
 Short and Simple:
-A self-taught programmer with experience in various languages - Currently interested in learning reverse engineering to pursue a hobby in preserving and creating patches for old games.
+A self-taught programmer with experience in various languages - Mostly interested in reverse engineering, game development, web development and creating servers for multiplayer clients.
